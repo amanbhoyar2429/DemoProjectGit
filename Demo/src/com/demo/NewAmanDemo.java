@@ -5,6 +5,8 @@ public class NewAmanDemo {
 	public static void main(String[] args) {
 		
 		System.out.println("hello aman");
+		System.out.println("Mohit");
+		System.out.println("seema");
 	}
 
 }
