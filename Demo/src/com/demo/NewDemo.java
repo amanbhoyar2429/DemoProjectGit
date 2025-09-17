@@ -9,6 +9,8 @@ public class NewDemo {
 		int c = a+b;
 		
 		System.out.println(c);
+		System.out.println("values of a " + a);
+		System.out.println("values of b "+ b) ;
 	}
 	public static void main(String[] args) {
 		
